@@ -137,6 +137,10 @@
   gap: 40px;
 }
 
+.recipes__iframe {
+  border: 0;
+}
+
 .recipes__video-caption {
   max-width: 560px;
   display: flex;
