@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief. It represents the landing page of the Triple peaks library coffeeshop located in a virtual town.
 
 ## Project features
 
