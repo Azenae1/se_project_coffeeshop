@@ -12,10 +12,11 @@
 }
 
 .form__input {
+  border: 1px solid #838383;
   border-radius: 4px;
   height: 60px;
   width: 100%;
-  padding: 0;
+  padding: 10px;
   box-sizing: border-box;
   font-size: 20px;
   line-height: 30px;
@@ -52,7 +53,7 @@
   cursor: pointer;
 }
 
-.form__label[for="terms-of-use"] {
+.form__label_type_checkbox {
   display: flex;
   margin: 0 auto 0;
 }
