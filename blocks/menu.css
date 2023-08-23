@@ -56,7 +56,3 @@
   border-bottom: 1px solid black;
   flex-grow: 1;
 }
-
-.card:nth-child(3) {
-  /* margin: auto; */
-}
