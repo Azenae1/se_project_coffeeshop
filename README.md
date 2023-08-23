@@ -18,4 +18,4 @@ Add your ideas here :)
 1. An adress link that leads to the map (header)
 2. Indents in the fields of booking form (reservation)
 3. Tooltips for the menu positions (menu)
-4.
+4. Resolution compatibility
