@@ -29,8 +29,3 @@
   flex-wrap: wrap;
   gap: 100px;
 }
-
-.menu__list {
-  list-style-type: none;
-  padding: 0;
-}
